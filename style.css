@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+body {
+  background: rgb(235, 219, 159);
+  background: radial-gradient(
+    circle,
+    rgba(235, 219, 159, 1) 34%,
+    rgba(15, 244, 245, 1) 92%
+  );
+  font-family: "Ubuntu", sans-serif;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
